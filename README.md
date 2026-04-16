@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Prince Awuku Anobaah 👋
 
-<!--
-**bemightsecurity/bemightsecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Cybersecurity Analyst | BTech ICT Student
 
-Here are some ideas to get you started:
+I am building practical cybersecurity skills through hands-on projects, labs, and security tools practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+- Network Security
+- Threat Detection
+- Linux Fundamentals
+- Security Awareness
+- Cybersecurity Tools Practice
+
+### Tools
+Wireshark • Nmap • TCPdump • Linux • dig • nslookup • Subfinder
+
+### Projects
+- Network Traffic Analysis Lab
+- Phishing Awareness Project
+- DNS Enumeration Lab
+- Vulnerability Assessment Lab
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/bemight/
+- Portfolio: https://bemightsecurity.mypixieset.com/
