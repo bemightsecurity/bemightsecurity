@@ -22,4 +22,4 @@ Wireshark • Nmap • TCPdump • Linux • dig • nslookup • Subfinder
 
 ### Connect
 - LinkedIn: https://www.linkedin.com/in/bemight/
-- Portfolio: https://bemightsecurity.mypixieset.com/
+- Portfolio: https://bemightsec.github.io
